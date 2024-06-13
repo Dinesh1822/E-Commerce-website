@@ -2,7 +2,7 @@
     "name": "ROG Phone 6",
     "price": 957.63,
     "description": "It harnesses the brute gaming power of the latest Qualcomm Snapdragon 8+ Gen 1 Mobile Platform, with a new class leading GameCool 6 thermal system that lets you smash every barrier and break every limit, and a 165 Hz display for a revolutionary visual experience",
-    "ratings": 4.0,
+    "ratings": 4.9,
     "images": [
       {
         "image": "/images/products/1.jpg"
@@ -13,13 +13,13 @@
     ],
     "category": "Mobile Phones",
     "seller": "Amazon",
-    "stock": 3
+    "stock": 10
   },
   {
-    "name": "WRISTIO HD, Bluetooth Calling Smart Watch",
+    "name": "Apple Watch Ultra 2",
     "price": 150.32,
-    "description": "Minix watches are exclusively designed to fulfill the advanced tech needs of today’s generation.",
-    "ratings": 3.5,
+    "description": "The most rugged and capable Apple Watch pushes the limits again. Featuring the all-new S9 SiP.",
+    "ratings": 4.5,
     "images": [
       {
         "image": "/images/products/2.jpg"
@@ -30,38 +30,38 @@
     "stock": 9
   },
   {
-    "name": "Dell Inspiron 3511 Laptop",
-    "price": 440.57,
-    "description": "Dell Inspiron 3511 11th Generation Intel Core i5-1135G7 Processor (8MB Cache, up to 4.2 GHz);Operating System: Windows 10 Home Single Language, English",
-    "ratings": 2,
+    "name": "Peter Englend Men Shirt",
+    "price": 23.57,
+    "description": "Men Green Slim Fit Stripe Full Sleeves Casual Shirt",
+    "ratings": 4.3,
     "images": [
       {
         "image": "/images/products/3.jpg"
       }
     ],
-    "category": "Laptops",
+    "category": "Shirt",
     "seller": "Ebay",
     "stock": 9
   },
   {
-    "name": "Lenovo IdeaPad Slim 3 Laptop",
-    "price": 250.45,
-    "description": "Lenovo IdeaPad Slim 311th Gen Intel Core i5-1135G7 | Speed: 2.4 GHz (Base) - 4.2 GHz (Max) | 4 Cores | 8 Threads | 8 MB Cache",
-    "ratings": 4,
+    "name": "Bose Smart Ultra SoundBar",
+    "price": 156.45,
+    "description": "Super Charged, Support Dolby Atmos",
+    "ratings": 4.4,
     "images": [
       {
         "image": "/images/products/6.jpg"
       }
     ],
-    "category": "Laptops",
+    "category": "Sound Bar",
     "seller": "Ebay",
     "stock": 9
   },
   {
-    "name": "ASUS VivoBook 15 Laptop",
+    "name": "ASUS ROG Zephyrus Duo 16",
     "price": 767.32,
-    "description": "ASUS VivoBook 15 15.6-inch (39.62 cm) HD, Dual Core Intel Celeron N4020, Thin and Light Laptop (4GB RAM/256GB SSD/Integrated Graphics/Windows 11 Home/Transparent Silver/1.8 Kg), X515MA-BR011W",
-    "ratings": 5,
+    "description": "Comes with the latest AMD Dragon Range R9-7945HX CPU Shouldered with the latest NVIDIA GeForce RTX 4080 Laptop GPU with 175W TGP",
+    "ratings": 4.9,
     "images": [
       {
         "image": "/images/products/7.jpg"
@@ -72,30 +72,30 @@
     "stock": 9
   },
   {
-    "name": "PTron Newly Launched Tangent Sports, 60Hrs Playtime",
-    "price": 15.46,
-    "description": "Gigantic 60 + Hours of music playtime on a single charge; BT5.2 Wireless headphones with ENC (Environmental Noise Cancellation) Technology to enhance your voice quality over the voice calls",
-    "ratings": 5,
+    "name": "Titan Karishma Quartz",
+    "price": 99.99,
+    "description": "Titan Karishma Quartz Analog Green Dial Stainless Steel Strap Watch for Men",
+    "ratings": 4.1,
     "images": [
       {
         "image": "/images/products/4.jpg"
       }
     ],
-    "category": "Headphones",
+    "category": "Accessories",
     "seller": "Amazon",
-    "stock": 4
+    "stock": 6
   },
   {
-    "name": "Campus Men's Maxico Running Shoes",
-    "price": 10.12,
-    "description": "The high raised back cover with extra padding.",
-    "ratings": 3,
+    "name": "Nike AIR FORCE 1",
+    "price": 173.99,
+    "description": "Nike Air Force 1 Low '07 LV8 'Panda' Black White",
+    "ratings": 4.6,
     "images": [
       {
         "image": "/images/products/5.jpg"
       }
     ],
-    "category": "Sports",
+    "category": "Shoe",
     "seller": "Ebay",
     "stock": 6
   }]
