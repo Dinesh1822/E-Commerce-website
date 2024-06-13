@@ -1,7 +1,7 @@
 # E-Commerce-website
-Code to implement E Commerce Website
-install npm
-start npm
+-- Code to implement E Commerce Website
+-- install npm
+-- start npm
 Output for Server:
 ![Output](https://github.com/Dinesh1822/E-Commerce-website/assets/145890542/f00b330e-4fb6-44f4-a743-069a97fa021b)
 ![Output1](https://github.com/Dinesh1822/E-Commerce-website/assets/145890542/bac0dd9d-e8c6-47ad-bf68-a07081b35abe)
